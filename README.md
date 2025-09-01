@@ -52,7 +52,9 @@
 
 ## 🎓 Books I'm currently reading
 
-- <!-- GOODREADS-LIST:START --> <!-- GOODREADS-LIST:END -->
+- <!-- GOODREADS-LIST:START -->
+- [The Science of Philip Pullman's His Dark Materials](https://www.goodreads.com/review/show/7866336340?utm_medium=api&utm_source=rss) by Mary Gribbin (⭐️4.47)
+<!-- GOODREADS-LIST:END -->
 
 
 
