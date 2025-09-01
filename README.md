@@ -53,7 +53,16 @@
 ## 🎓 Books I'm currently reading
 
 <!-- GOODREADS-LIST:START -->
-- [The Science of Philip Pullman's His Dark Materials](https://www.goodreads.com/review/show/7866336340?utm_medium=api&utm_source=rss) by Mary Gribbin (⭐️4.47)
+- [His Dark Materials The Amber Spyglass (Gift Edition) Paperback 21 Nov 2019](https://www.goodreads.com/review/show/7866336539?utm_medium=api&utm_source=rss) by Glory Tina (⭐️4.55)
+- [Assassin's Apprentice (Farseer Trilogy, #1)](https://www.goodreads.com/review/show/7866322780?utm_medium=api&utm_source=rss) by Robin Hobb (⭐️4.21)
+- [The Girl With the Dragon Tattoo (Millennium, #1)](https://www.goodreads.com/review/show/7866323658?utm_medium=api&utm_source=rss) by Stieg Larsson (⭐️4.17)
+- [Hyperion (Hyperion Cantos, #1)](https://www.goodreads.com/review/show/7866317313?utm_medium=api&utm_source=rss) by Dan Simmons (⭐️4.26)
+- [The Golden Compass (His Dark Materials, #1)](https://www.goodreads.com/review/show/7866322498?utm_medium=api&utm_source=rss) by Philip Pullman (⭐️4.02)
+- [Neuromancer (Sprawl, #1)](https://www.goodreads.com/review/show/7866316593?utm_medium=api&utm_source=rss) by William Gibson (⭐️3.93)
+- [I, Robot (Robot, #0.1)](https://www.goodreads.com/review/show/7866316711?utm_medium=api&utm_source=rss) by Isaac Asimov (⭐️4.22)
+- [Bóvedas de acero (Robot, #1)](https://www.goodreads.com/review/show/7866316494?utm_medium=api&utm_source=rss) by Isaac Asimov (⭐️3.9)
+- [The Time Machine](https://www.goodreads.com/review/show/7866316534?utm_medium=api&utm_source=rss) by H.G. Wells (⭐️3.9)
+- [The Housemaid (The Housemaid, #1)](https://www.goodreads.com/review/show/7866315274?utm_medium=api&utm_source=rss) by Freida McFadden (⭐️4.3)
 <!-- GOODREADS-LIST:END -->
 
 
