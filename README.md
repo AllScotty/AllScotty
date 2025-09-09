@@ -8,7 +8,7 @@
 - I’m Silicon Valley's Cybersecurity Advisor
 - Afflicted by the Need to Conduct Offensive Cyber and Kinetic Operation. 
 - Drafting the "Hack Back" Policy We Need
-- Teaching the Next Generation of Students How to Leverage Offensive Skills to their Own Advantage././././..[BusKids](https://github.com/AllScotty/CashPoorTimeRich/blob/main/BusKids)
+- Teaching the Next Generation of Students How to Leverage Offensive Skills to their Own Advantage././././..[BusKids](https://github.com/AllScotty/Scottys-OFFSEC-Kit_
 
 
 ---
@@ -103,6 +103,7 @@
 
 
 - .././..Everything Creative Here is Stolen.././..
+
 
 
 
