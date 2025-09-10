@@ -6,8 +6,8 @@
 # 👋 Welcome!
 
 - I’m Silicon Valley's Cybersecurity Advisor
-- Afflicted by the Need to Conduct Offensive Cyber and Kinetic Operation. 
-- Drafting the "Hack Back" Policy We Need
+- Offensive Cyber and Kinetic Operator 
+- Drafting the "Hack Back" Policy We Long Need
 - Teaching the Next Generation of Students How to Leverage Offensive Skills to their Own Advantage././././..[BusKids](https://github.com/AllScotty/Scottys-OFFSEC-Kit_
 
 
@@ -103,6 +103,7 @@
 
 
 - .././..Everything Creative Here is Stolen.././..
+
 
 
 
