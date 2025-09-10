@@ -5,7 +5,7 @@
 
 # 👋 Welcome!
 
-- I’m Silicon Valley's Cybersecurity Advisor
+- Silicon Valley's Cybersecurity Advisor
 - Offensive Cyber and Kinetic Operator 
 - Drafting the "Hack Back" Policy We Long Need
 - Teaching NextGen Hackers to Crack Infrastructure 
@@ -105,6 +105,7 @@
 
 
 - .././..Everything Creative Here is Stolen.././..
+
 
 
 
