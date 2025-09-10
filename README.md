@@ -8,7 +8,9 @@
 - I’m Silicon Valley's Cybersecurity Advisor
 - Offensive Cyber and Kinetic Operator 
 - Drafting the "Hack Back" Policy We Long Need
-- Teaching the Next Generation of Students How to Leverage Offensive Skills to their Own Advantage././././..[BusKidsOnly - --- --- ahhhhhhhhhhhhhhhhhhhhhhhhhhh](https://github.com/AllScotty/Scottys-OFFSEC-Kit_
+- Teaching NextGen Hackers to Crack Infrastructure 
+- “Steal like an artist—cash-poor, time-rich.”
+- ././././..[BusKidsOnly - --- --- ahhhhhhhhhhhhhhhhhhhhhhhhhhh](https://github.com/AllScotty/Scottys-OFFSEC-Kit_
 
 
 ---
@@ -103,6 +105,7 @@
 
 
 - .././..Everything Creative Here is Stolen.././..
+
 
 
 
