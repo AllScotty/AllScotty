@@ -7,10 +7,8 @@
 
 - Silicon Valley's Cybersecurity Advisor
 - Offensive Cyber and Kinetic Operator 
-- Drafting the "Hack Back" Policy We Long Need
+- Draft the "Hack Back" Policy We Long Need
 - Teaching NextGen Hackers to Crack Infrastructure 
-- “Steal like an artist—cash-poor, time-rich.”
-- ././././..[BusKidsOnly - --- --- ahhhhhhhhhhhhhhhhhhhhhhhhhhh](https://github.com/AllScotty/Scottys-OFFSEC-Kit_
 
 
 ---
@@ -24,11 +22,7 @@
 
 ---
 
-## 📊 GitHub Stats:
 
-![](https://nirzak-streak-stats.vercel.app/?user=scott-alford&theme=radical&hide_border=false)<br/>
-  
----
 ## 💼 Professional Experience
 
 - **Founder & CEO – Synistr** _(Present)_  
@@ -105,6 +99,7 @@
 
 
 - .././..Everything Creative Here is Stolen.././..
+
 
 
 
