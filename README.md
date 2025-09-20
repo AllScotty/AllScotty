@@ -7,7 +7,7 @@
 
 - Silicon Valley's Cybersecurity Advisor
 - Offensive Cyber and Kinetic Operator 
-- Draft the "Hack Back" Policy We Long Need
+- Cyber Lawfare Engineer
 - Teaching NextGen Hackers to Crack Infrastructure 
 
 
@@ -98,6 +98,7 @@
 
 
 - .././..Everything Creative Here is Stolen.././..
+
 
 
 
