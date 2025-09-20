@@ -16,9 +16,16 @@
 ## 🚀 Tech & Skills
    
   
-  <img src="https://img.shields.io/badge/Offensive%20Security-111111?style=for-the-badge&logo=kalilinux&logoColor=white"/>  <img src="https://img.shields.io/badge/AI%20Security-4285F4?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Ransomware-b1db27?style=for-the-badge" alt="Badge"> <img src="https://img.shields.io/badge/Cyber%20Lawfare-blue?style=for-the-badge" alt="Badge"/> <a href="https://synistr.com/" target="_blank">
-  <img src="https://img.shields.io/badge/SYNISTR-ac04b4?style=for-the-badge" alt="Badge">
-</a>
+  ![Offensive Security](https://img.shields.io/badge/Offensive%20Security-111111?style=for-the-badge&logo=kalilinux&logoColor=white)
+
+![AI Security](https://img.shields.io/badge/AI%20Security-4285F4?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+![Ransomware](https://img.shields.io/badge/Ransomware-b1db27?style=for-the-badge)
+
+![Cyber Lawfare](https://img.shields.io/badge/Cyber%20Lawfare-blue?style=for-the-badge)
+
+[![SYNISTR](https://img.shields.io/badge/SYNISTR-ac04b4?style=for-the-badge)](https://synistr.com/)
+
 
 
 ---
@@ -100,6 +107,7 @@
 
 
 - .././..Everything Creative Here is Stolen.././..
+
 
 
 
