@@ -18,7 +18,7 @@
   
   <img src="https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge&logo=hackaday&logoColor=white"/>  <img src="https://img.shields.io/badge/Offensive%20Security-111111?style=for-the-badge&logo=kalilinux&logoColor=white"/>
   <img src="https://img.shields.io/badge/AI%20Security-4285F4?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Embedded%20Systems-00599C?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Networking-006600?style=for-the-badge&logo=cisco&logoColor=white"/>  <<img src="https://img.shields.io/badge/Cyber%20Lawfare-blue?style=for-the-badge" alt="Badge">/>
+  <img src="https://img.shields.io/badge/Networking-006600?style=for-the-badge&logo=cisco&logoColor=white"/>  <img src="https://img.shields.io/badge/Cyber%20Lawfare-blue?style=for-the-badge" alt="Badge"/>
 
 
 ---
@@ -100,6 +100,7 @@
 
 
 - .././..Everything Creative Here is Stolen.././..
+
 
 
 
