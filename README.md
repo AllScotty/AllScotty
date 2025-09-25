@@ -37,11 +37,10 @@
 ## 💼 Professional Experience
 
 - **Founder & CEO – Synistr** _(Present)_  
-  Developing **customized offensive security training software** for organizations, advancing research, and hands-on cyber defense solutions.
+  Developing **customized offensive security training software** for organizations, advancing research, and hands-on cyber offensive capabilities.
 
 - **Cybersecurity Advisor – CISA** _(Present)_  
-  Driving strategic initiatives across federal and local governments, supporting **1000+ infrastructure operators**.  
-  Focus on **incident resilience, ransomware response, AI security, and regulatory compliance**.
+  Advisor to strategic leaders across federal and local governments ** supporting **1000+ infrastructure operators**.  
 
 - **Sr. Weapon Systems Engineer & Tactical Threat Trainer – **Yemen, Poland, Japan, and South China Sea**  
   Weapon system integration engineer for combat sytems department in DoD.  
@@ -110,6 +109,7 @@
 
 
 - .././..Everything Creative Here is Stolen.././..
+
 
 
 
