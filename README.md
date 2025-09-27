@@ -8,7 +8,7 @@
 - Silicon Valley's Cybersecurity Advisor
 - Offensive Cyber and Kinetic Operator 
 - Cyber Lawfare Engineer
-- Teaching NextGen Hackers to Crack Infrastructure 
+- NextGen Hacker
 
 
 ---
@@ -109,6 +109,7 @@
 
 
 - .././..Everything Creative Here is Stolen.././..
+
 
 
 
