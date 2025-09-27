@@ -6,9 +6,9 @@
 # 👋 Welcome!
 
 - Silicon Valley's Cybersecurity Advisor
-- Offensive Cyber and Kinetic Operator 
-- Cyber Lawfare Attorney .... Student..
-- Field Active Hacker
+- Offensive Cyber Operator 
+- Cyber Lawfare Attorney
+  
 
 
 ---
@@ -103,6 +103,7 @@
 
 
 - .././..Everything Creative Here is Stolen.././..
+
 
 
 
