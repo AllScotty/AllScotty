@@ -7,7 +7,7 @@
 
 - Silicon Valley's Cybersecurity Advisor
 - Offensive Cyber and Kinetic Operator 
-- Cyber Lawfare Engineer
+- Cyber Lawfare Attorney .... Student..
 - NextGen Hacker
 
 
@@ -109,6 +109,7 @@
 
 
 - .././..Everything Creative Here is Stolen.././..
+
 
 
 
