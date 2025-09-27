@@ -8,7 +8,7 @@
 - Silicon Valley's Cybersecurity Advisor
 - Offensive Cyber and Kinetic Operator 
 - Cyber Lawfare Attorney .... Student..
-- NextGen Hacker
+- Field Active Hacker
 
 
 ---
@@ -103,6 +103,7 @@
 
 
 - .././..Everything Creative Here is Stolen.././..
+
 
 
 
