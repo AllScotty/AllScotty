@@ -7,7 +7,7 @@
 
 - Silicon Valley's Cybersecurity Advisor
 - Offensive Cyber Operator 
-- Cyber Lawfare Attorney
+- Cyber Lawfare Lawyer
   
 
 
@@ -103,6 +103,7 @@
 
 
 - .././..Everything Here is Stolen.././..
+
 
 
 
