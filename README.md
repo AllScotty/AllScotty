@@ -42,10 +42,10 @@
 - **Cybersecurity Advisor – CISA** _(Present)_  
   Advisor to strategic leaders across federal and local governments ** supporting **1000+ infrastructure operators**.  
 
-- **Sr. Weapon Systems Engineer & Tactical Threat Trainer – **Yemen, Poland, Japan, and South China Sea**  
-  Weapon system integration engineer for combat sytems department in DoD.  
+- Supervisory Weapon Systems Engineer & Tactical Threat Trainer – **Yemen, Poland, Japan, and South China Sea**  
+  AEGIS Weapon System integration engineer for Combat Sytems Department in DoD.  
 
-- **Founder – Veterans Resource Alliance (501c3)**  
+- **Founder – Ann Sillivan Cyber Fund (501c3)**  
 ---
 
 ## 🎓 Education
@@ -103,6 +103,7 @@
 
 
 - .././..Everything Here is Stolen.././..
+
 
 
 
