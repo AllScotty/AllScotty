@@ -20,7 +20,6 @@
 
 [![Offensive Security](https://img.shields.io/badge/Offensive%20Security-111111?style=for-the-badge&logo=kalilinux&logoColor=white)](https://synistr.com/) 
 [![AI Security](https://img.shields.io/badge/AI%20Security-4285F4?style=for-the-badge&logo=tensorflow&logoColor=white)](https://synistr.com/) 
-[![Ransomware](https://img.shields.io/badge/Ransomware-b1db27?style=for-the-badge)](https://synistr.com/) 
 [![Cyber Lawfare](https://img.shields.io/badge/Cyber%20Lawfare-blue?style=for-the-badge)](https://synistr.com/) 
 [![SYNISTR](https://img.shields.io/badge/SYNISTR-ac04b4?style=for-the-badge)](https://synistr.com/)
 
@@ -103,6 +102,7 @@
 
 
 - .././..Everything Here is Stolen.././..
+
 
 
 
