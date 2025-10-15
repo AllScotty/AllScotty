@@ -65,7 +65,7 @@
 - [The Golden Compass (His Dark Materials, #1)](https://www.goodreads.com/review/show/7866322498?utm_medium=api&utm_source=rss) by Philip Pullman (⭐️4.02)
 - [Neuromancer (Sprawl, #1)](https://www.goodreads.com/review/show/7866316593?utm_medium=api&utm_source=rss) by William Gibson (⭐️3.93)
 - [I, Robot (Robot, #0.1)](https://www.goodreads.com/review/show/7866316711?utm_medium=api&utm_source=rss) by Isaac Asimov (⭐️4.22)
-- [Bóvedas de acero (Robot, #1)](https://www.goodreads.com/review/show/7866316494?utm_medium=api&utm_source=rss) by Isaac Asimov (⭐️3.97)
+- [Bóvedas de acero (Robot, #1)](https://www.goodreads.com/review/show/7866316494?utm_medium=api&utm_source=rss) by Isaac Asimov (⭐️3.96)
 - [The Time Machine](https://www.goodreads.com/review/show/7866316534?utm_medium=api&utm_source=rss) by H.G. Wells (⭐️3.9)
 - [The Housemaid (The Housemaid, #1)](https://www.goodreads.com/review/show/7866315274?utm_medium=api&utm_source=rss) by Freida McFadden (⭐️4.29)
 <!-- GOODREADS-LIST:END -->
