@@ -38,8 +38,8 @@
 - **Founder & CEO – Synistr** _(Present)_  
   Developing **customized offensive security training software** for organizations, advancing research, and hands-on cyber offensive capabilities.
 
-- **Cybersecurity Advisor – CISA** _(Present)_  
-  Advisor to strategic leaders across federal and local governments ** supporting **1000+ infrastructure operators**.  
+- **Cybersecurity Advisor – ** _(Present)_  
+  Advisor to strategic leaders across federal and local governments ** 
 
 - Supervisory Weapon Systems Engineer & Tactical Threat Trainer – **Yemen, Poland, Japan, and South China Sea**  
   AEGIS Weapon System integration engineer for Combat Sytems Department in DoD.  
@@ -102,6 +102,7 @@
 
 
 - .././..Everything Here is Stolen.././..
+
 
 
 
