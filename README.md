@@ -50,7 +50,8 @@ Served within the Department of Defense’s Combat Systems Department, overseein
 - **Member – ISSA (Information Systems Security Association)**
 - **Member – IAPP (International Association of Privacy Professionals)**
 - **Member – IAPP (International Association of Privacy Professionals)**
-- **Member - ISC² (International Information System Security Certification Consortium) **
+- **Member - ISC² (International Information System Security Certification Consortium)**
+  
   
   
 ---
@@ -84,6 +85,7 @@ Served within the Department of Defense’s Combat Systems Department, overseein
 ## 🤝 Hack Back
 - .././..Everything Here is Stolen.././..
 ---
+
 
 
 
