@@ -48,6 +48,22 @@ Served within the Department of Defense’s Combat Systems Department, overseein
 
 ---
 
+## 🎤 Speaking Engagements
+
+- Too Many to List....
+---
+## 🤝 Professional Affiliations
+
+- **Cybersecurity Advisor – CISA**
+- **Contributing Member – ICANN SSAC**
+- **Professional Member – IEEE Computer Society**
+- **Member – ISSA (Information Systems Security Association)**
+- **Member – IAPP (International Association of Privacy Professionals)**
+- **Member – IAPP (International Association of Privacy Professionals)**
+- **Member  (ISC)² Silicon Valley Chapter **
+---
+
+
 ## 🎓 Education
 
 - **J.D. (In Progress)** – Cybersecurity & Privacy Law, Santa Clara University
@@ -72,25 +88,11 @@ Served within the Department of Defense’s Combat Systems Department, overseein
 <!-- GOODREADS-LIST:END -->
 ---
 
-## 🎤 Speaking Engagements
-
-- Too Many to List....
----
-
-## 🤝 Professional Affiliations
-
-- **Cybersecurity Advisor – CISA**
-- **Contributing Member – ICANN SSAC**
-- **Professional Member – IEEE Computer Society**
-- **Member – ISSA (Information Systems Security Association)**
-- **Member – IAPP (International Association of Privacy Professionals)**
-- **Member – IAPP (International Association of Privacy Professionals)**
-- **Member  (ISC)² Silicon Valley Chapter **
----
 
 ## 🤝 Hack Back
 - .././..Everything Here is Stolen.././..
 ---
+
 
 
 
