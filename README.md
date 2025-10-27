@@ -65,6 +65,14 @@ Established a nonprofit organization supporting veterans and cybersecurity profe
 - **Advanced Electronic and Computer Training – AEGIS Combat Weapon Systems** 
 ---
 
+🧾 Licenses & Certifications
+
+- ** Offensive Security Certified Professional (OSCP)
+- ** Certified Information Security Manager (CISM)
+- ** Certified Information Systems Security Professional (CISSP)
+- **CompTIA Advanced Security Practitioner (CASP+)
+- **Project Management Professional (PMP)
+
 ## 🎓 Books I'm currently reading
 
 <!-- GOODREADS-LIST:START -->
@@ -84,6 +92,7 @@ Established a nonprofit organization supporting veterans and cybersecurity profe
 ## 🤝 Hack Back
 - .././..Everything Here is Stolen.././..
 ---
+
 
 
 
