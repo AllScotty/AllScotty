@@ -1,14 +1,15 @@
 <!-- header image -->
 ![header](assets/header.png)
 
-## 👋 About Me
+
 [![Offensive Security](https://img.shields.io/badge/Offensive%20Security-111111?style=for-the-badge&logo=kalilinux&logoColor=white)](https://synistr.com)
 [![AI Security](https://img.shields.io/badge/AI%20Security-4285F4?style=for-the-badge&logo=tensorflow&logoColor=white)](https://synistr.com)
 [![Cyber Lawfare](https://img.shields.io/badge/Cyber%20Lawfare-blue?style=for-the-badge)](https://synistr.com)
+## 👋 About Me
 
-**Providing strategic cybersecurity guidance to senior leadership and executives across sectors.
-As the founder of SYNISTR, I drive research and policy efforts in cyber warfare, advanced threat intelligence, and adversarial defense systems.
-I also teach tomorrow’s hackers to defend, disrupt, and drive innovation, shaping the next era of cyber warfare.**
+I’m a Federal Cybersecurity Advisor, university lecturer, and offensive security researcher focused on advancing cyber resilience, threat intelligence, and defense innovation.  
+At **CISA**, I advise government and industry leaders across California, Nevada, and Arizona on cybersecurity strategy and critical infrastructure protection.  
+I also teach graduate courses in ethical hacking and network defense at **San José State University**, and mentor the next generation of cybersecurity professionals to **defend, disrupt, and drive** the future of cyber.
 
 ---
 
@@ -101,6 +102,7 @@ Available on request — frequent speaker on cybersecurity operations, policy, a
 ## Contact  
 - LinkedIn: [https://linkedin.com/in/scottsec](https://www.linkedin.com/in/scottsec)  
 ---
+
 
 
 
