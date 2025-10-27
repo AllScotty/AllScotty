@@ -58,7 +58,7 @@ Nonprofit supporting veterans and cybersecurity professionals with training and 
 ---
 
 ## 🎤 Speaking & publications
-Available on request — frequent speaker on cybersecurity operations, policy, and law. (Add event pages, slide links, or recordings here.)
+Available on request — frequent speaker on cybersecurity operations, policy, and law. 
 
 ---
 
@@ -92,6 +92,7 @@ Available on request — frequent speaker on cybersecurity operations, policy, a
 ## Contact  
 - LinkedIn: [https://linkedin.com/in/scottsec](https://www.linkedin.com/in/scottsec)  
 ---
+
 
 
 
