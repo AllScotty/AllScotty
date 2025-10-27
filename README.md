@@ -68,7 +68,7 @@ Available on request — frequent speaker on cybersecurity operations, policy, a
 - Professional Member — IEEE Computer Society  
 - Member — ISSA (Information Systems Security Association)  
 - Member — IAPP (International Association of Privacy Professionals)  
-- Member — ISC²
+- Member – ISC² (International Information System Security Certification Consortium)
 
 ---
 
@@ -90,7 +90,8 @@ Available on request — frequent speaker on cybersecurity operations, policy, a
 ---
 
 ## Contact  
-- LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/scottsec)  
+- LinkedIn: [https://linkedin.com/in/scottsec](https://www.linkedin.com/in/scottsec)  
 ---
+
 
 
