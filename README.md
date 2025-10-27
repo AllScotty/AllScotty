@@ -22,8 +22,6 @@ I also teach tomorrow’s hackers to defend, disrupt, and drive innovation, shap
 
 ---
 
-## 💼 Professional
-
 ## 💼 Professional Experience
 
 **University Lecturer — San José State University**  
@@ -104,6 +102,7 @@ Available on request — frequent speaker on cybersecurity operations, policy, a
 ## Contact  
 - LinkedIn: [https://linkedin.com/in/scottsec](https://www.linkedin.com/in/scottsec)  
 ---
+
 
 
 
