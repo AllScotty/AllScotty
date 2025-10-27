@@ -70,9 +70,6 @@ Served within the Department of Defense’s Combat Systems Department, overseein
 - [The Time Machine](https://www.goodreads.com/review/show/7866316534?utm_medium=api&utm_source=rss) by H.G. Wells (⭐️3.9)
 - [The Housemaid (The Housemaid, #1)](https://www.goodreads.com/review/show/7866315274?utm_medium=api&utm_source=rss) by Freida McFadden (⭐️4.29)
 <!-- GOODREADS-LIST:END -->
-
-
-
 ---
 
 ## 🎤 Speaking Engagements
@@ -90,19 +87,11 @@ Served within the Department of Defense’s Combat Systems Department, overseein
 - **Member – IAPP (International Association of Privacy Professionals)**
 - **Member  (ISC)² Silicon Valley Chapter **
 ---
----
 
 ## 🤝 Hack Back
-
-
-  
+- .././..Everything Here is Stolen.././..
 ---
 
-
-
-
-
-- .././..Everything Here is Stolen.././..
 
 
 
