@@ -53,7 +53,7 @@ Served within the Department of Defense’s Combat Systems Department, overseein
 - **J.D. (In Progress)** – Cybersecurity & Privacy Law, Santa Clara University
 - **M.S. Cyber Engineering** – University of San Diego _(Summa Cum Laude)_
 - **B.S. Cybersecurity** – National University _(Magna Cum Laude)_
-- **Military Training – AEGIS Combat Weapon Systems** 
+- **Advanced Electronic and Computer Training – AEGIS Combat Weapon Systems** 
 ---
 
 ## 🎓 Books I'm currently reading
@@ -103,6 +103,7 @@ Served within the Department of Defense’s Combat Systems Department, overseein
 
 
 - .././..Everything Here is Stolen.././..
+
 
 
 
