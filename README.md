@@ -5,8 +5,8 @@
 
 # 👋 Welcome!
 
-- Silicon Valley's Cybersecurity Advisor
-- Offensive Cyber Operator 
+- Cybersecurity Advisor to California, Nevada, and Arizona
+- Offensivesecurity Cyber Researcher
 - Cyber Lawfare Lawyer
 
    
@@ -84,6 +84,7 @@ Served within the Department of Defense’s Combat Systems Department, overseein
 ## 🤝 Hack Back
 - .././..Everything Here is Stolen.././..
 ---
+
 
 
 
