@@ -11,12 +11,9 @@
 
 ---
 
-Advising senior leadership and executives on cybersecurity strategy, resilience, and risk management.  
-I lead **SYNISTR** — a research and policy platform dedicated to cyber warfare, advanced threat intelligence, and the design of adversarial and defense research data systems.  
-
-Shaping the future of cyber by empowering tomorrow’s hackers to **defend, disrupt, and drive** the next evolution of security.
-
----
+Providing strategic cybersecurity guidance to senior leadership and executives across sectors.
+As the founder of SYNISTR, I drive research and policy efforts in cyber warfare, advanced threat intelligence, and adversarial defense systems.
+I also teach tomorrow’s hackers to defend, disrupt, and drive innovation, shaping the next era of cyber warfare.
 
 ---
 
@@ -102,6 +99,7 @@ Available on request — frequent speaker on cybersecurity operations, policy, a
 ## Contact  
 - LinkedIn: [https://linkedin.com/in/scottsec](https://www.linkedin.com/in/scottsec)  
 ---
+
 
 
 
