@@ -5,9 +5,9 @@
 
 # 👋 Welcome!
 
-- Cybersecurity Advisor to California, Nevada, and Arizona
-- Offensivesecurity Cyber Researcher
-- Cyber Lawfare Lawyer
+- Cybersecurity Advisor for California, Nevada, and Arizona
+- Offensive Security Cyber Researcher
+- Cyber Lawfare Attorney
 
    
   
@@ -84,6 +84,7 @@ Served within the Department of Defense’s Combat Systems Department, overseein
 ## 🤝 Hack Back
 - .././..Everything Here is Stolen.././..
 ---
+
 
 
 
