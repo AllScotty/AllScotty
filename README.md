@@ -43,7 +43,7 @@ Established a nonprofit organization supporting veterans and cybersecurity profe
 - **J.D. (In Progress)** – Cybersecurity & Privacy Law, Santa Clara University
 - **M.S. Cyber Engineering** – University of San Diego _(Summa Cum Laude)_
 - **B.S. Cybersecurity** – National University _(Magna Cum Laude)_
-- **Advanced Electronic and Computer Training – AEGIS Combat Weapon Systems** 
+- **Surface Combat Systems Training Command (SCSTC) AEGIS Training and Readiness Center (ATRC)** 
 ---
 ## 🧾 Licenses & Certifications
 
@@ -90,6 +90,7 @@ Established a nonprofit organization supporting veterans and cybersecurity profe
 ## 🤝 Hack Back
 - .././..Everything Here is Stolen.././..
 ---
+
 
 
 
