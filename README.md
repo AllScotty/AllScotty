@@ -8,8 +8,7 @@
 - Silicon Valley's Cybersecurity Advisor
 - Offensive Cyber Operator 
 - Cyber Lawfare Lawyer
----
- # 🚀 Tech & Skills
+
    
   
   <div align="center">
@@ -83,6 +82,7 @@ Served within the Department of Defense’s Combat Systems Department, overseein
 ## 🤝 Hack Back
 - .././..Everything Here is Stolen.././..
 ---
+
 
 
 
