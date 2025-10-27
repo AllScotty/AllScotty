@@ -22,19 +22,28 @@ I also teach tomorrow’s hackers to defend, disrupt, and drive innovation, shap
 
 ---
 
-## 💼 Selected experience
+## 💼 Professional
 
-**Founder & CEO — SYNISTR**  
-Platform for cyber warfare research, advanced threat intel, and policy development.
+## 💼 Professional Experience
 
-**Federal Cybersecurity Advisor** — California, Nevada & Arizona  
-Advised senior leaders across critical infrastructure sectors on cybersecurity strategy and risk reduction.
+**University Lecturer — San José State University**  
+Teach graduate-level courses in cybersecurity, penetration testing, and network defense within the MLIS and Informatics programs.
 
-**Supervisory Cyber & Kinetic Systems Engineer** — U.S. Department of Defense  
-Led weapon system integration, deployment, and readiness across global theaters (Yemen, Poland, Japan, South China Sea).
+**Cybersecurity Advisor — CISA (U.S. Department of Homeland Security)**  
+Advised government and private-sector leaders across California, Nevada, and Arizona on cyber resilience, threat mitigation, and critical infrastructure protection.
+
+**Cyber Engineer — U.S. Navy Littoral Combat Ship Program (Auria Space)**  
+Led cybersecurity integration for mission-critical Navy systems, embedding controls into cloud and DevSecOps environments.
+
+**Senior Combat Systems Engineer — Raytheon & Lockheed Martin**  
+Directed AEGIS radar modernization and combat system integration across global operations, ensuring mission readiness and cybersecurity compliance.
+
+**Combat Systems Engineer Supervisor — U.S. Department of the Navy**  
+Supervised advanced weapons-system integration and trained 300+ personnel in cyber and kinetic operations.
 
 **Founder — Anne Sullivan Cyber Fund (501(c)(3))**  
-Nonprofit supporting veterans and cybersecurity professionals with training and certification funding.  
+Founded a nonprofit supporting veterans and cybersecurity professionals through education and certification funding.
+  
 
 ---
 
@@ -95,6 +104,7 @@ Available on request — frequent speaker on cybersecurity operations, policy, a
 ## Contact  
 - LinkedIn: [https://linkedin.com/in/scottsec](https://www.linkedin.com/in/scottsec)  
 ---
+
 
 
 
