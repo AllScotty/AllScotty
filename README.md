@@ -7,7 +7,7 @@
 [![Cyber Lawfare](https://img.shields.io/badge/Cyber%20Lawfare-blue?style=for-the-badge)](https://synistr.com)
 ## 👋 About Me
 
-I’m a Federal Cybersecurity Advisor, university lecturer, and offensive security researcher focused on advancing cyber warfare capabilities, intelligent infrastructure resilience, and cyber education innovation. I serve as a strategic advisor to government and industry leaders across the United States, guiding cybersecurity strategy and critical infrastructure protection. I also teach graduate courses in offensive security and network defense at San José State University, mentoring the next generation of cybersecurity professionals to defend, disrupt, and drive the future of cyber.
+I’m a Federal Cybersecurity Advisor, university lecturer, and offensive security researcher focused on advancing cyber warfare capabilities, improving intelligent infrastructure resiliency, and driving cyber education innovation. I serve as a strategic advisor to government and industry leaders across the United States, guiding cybersecurity strategy and critical infrastructure protection. I also teach graduate courses in ethical hacking and network defense at San José State University, mentoring the next generation of cybersecurity professionals to defend, disrupt, and drive the future of cyber.
 
 ---
 
@@ -100,6 +100,7 @@ Available on request — frequent speaker on cybersecurity operations, policy, a
 ## Contact  
 - LinkedIn: [https://linkedin.com/in/scottsec](https://www.linkedin.com/in/scottsec)  
 ---
+
 
 
 
