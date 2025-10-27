@@ -1,15 +1,23 @@
 <!-- header image -->
 ![header](assets/header.png)
 
-## About me
+## 👋 About Me
+
 **Federal Cybersecurity Advisor • Offensive Security & Cyber Researcher • Cyber Lawfare Attorney**
 
 [![Offensive Security](https://img.shields.io/badge/Offensive%20Security-111111?style=for-the-badge&logo=kalilinux&logoColor=white)](https://synistr.com)
 [![AI Security](https://img.shields.io/badge/AI%20Security-4285F4?style=for-the-badge&logo=tensorflow&logoColor=white)](https://synistr.com)
 [![Cyber Lawfare](https://img.shields.io/badge/Cyber%20Lawfare-blue?style=for-the-badge)](https://synistr.com)
 
-# Advising senior leadership and executives on cyber strategy, resilience, and risk management.I lead SYNISTR — a research and policy platform dedicated to cyber warfare, advanced threat intelligence, and the design of adversarial and defense research data systems.
-Shaping the future of cyber by empowering tomorrow’s hackers to defend, disrupt, and drive the next evolution of security.
+---
+
+Advising senior leadership and executives on cybersecurity strategy, resilience, and risk management.  
+I lead **SYNISTR** — a research and policy platform dedicated to cyber warfare, advanced threat intelligence, and the design of adversarial and defense research data systems.  
+
+Shaping the future of cyber by empowering tomorrow’s hackers to **defend, disrupt, and drive** the next evolution of security.
+
+---
+
 ---
 
 ## ⚙️ Core expertise
@@ -94,6 +102,7 @@ Available on request — frequent speaker on cybersecurity operations, policy, a
 ## Contact  
 - LinkedIn: [https://linkedin.com/in/scottsec](https://www.linkedin.com/in/scottsec)  
 ---
+
 
 
 
