@@ -80,13 +80,13 @@ Available on request — frequent speaker on cybersecurity operations, policy, a
 - *Assassin's Apprentice* — Robin Hobb  
 - *The Girl With the Dragon Tattoo* — Stieg Larsson  
 - *Hyperion* — Dan Simmons  
-- *Neuromancer* — William Gibson
-- How to Measure Anything in Cybersecurity Risk — Douglas W. Hubbard & Richard Seiersen
-- Blitzscaling — Reid Hoffman & Chris Yeh
-- From Zero to One — Peter Thiel
-- Evasive Malware: Evading EDR — (Author TBD / specify if self-study resource)
-- Atomic Habits — James Clear
-- The Silicon Valley Way — (confirm title; possibly The Silicon Valley Way: How to Build a Startup That Changes the World)
+- *Neuromancer* — William Gibson  
+- *How to Measure Anything in Cybersecurity Risk* — Douglas W. Hubbard & Richard Seiersen  
+- *Blitzscaling* — Reid Hoffman & Chris Yeh  
+- *From Zero to One* — Peter Thiel  
+- *Evasive Malware: Evading EDR* — *( self-study resource)*  
+- *Atomic Habits* — James Clear  
+- *The Silicon Valley Way: How to Build a Startup That Changes the World* — *(Confirm title/author)*
 
 ---
 
@@ -100,6 +100,7 @@ Available on request — frequent speaker on cybersecurity operations, policy, a
 ## Contact  
 - LinkedIn: [https://linkedin.com/in/scottsec](https://www.linkedin.com/in/scottsec)  
 ---
+
 
 
 
