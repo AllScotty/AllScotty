@@ -81,13 +81,13 @@
 
 ## 🤝 Professional Affiliations
 
-- **Founder & CEO – Synistr**
 - **Cybersecurity Advisor – CISA**
 - **Contributing Member – ICANN SSAC**
 - **Professional Member – IEEE Computer Society**
 - **Member – ISSA (Information Systems Security Association)**
 - **Member – IAPP (International Association of Privacy Professionals)**
-
+- **Member – IAPP (International Association of Privacy Professionals)**
+- **Member  (ISC)² Silicon Valley Chapter **
 ---
 ---
 
@@ -102,6 +102,7 @@
 
 
 - .././..Everything Here is Stolen.././..
+
 
 
 
