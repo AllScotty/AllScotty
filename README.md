@@ -97,9 +97,7 @@ Available on request — frequent speaker on cybersecurity operations, policy, a
 
 ---
 
-## Contact  
-- LinkedIn: [https://linkedin.com/in/scottsec](https://www.linkedin.com/in/scottsec)  
----
+
 
 
 
