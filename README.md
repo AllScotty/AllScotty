@@ -34,16 +34,16 @@
 
 ## 💼 Professional Experience
 
-- ** Founder & CEO – SYNISTR
+- Founder & CEO – SYNISTR
 Platform dedicated to cyber warfare research, advanced threat intelligence, and policy development.
 
-- ** Federal Cybersecurity Advisor - California, Nevada, Arizona
+- Federal Cybersecurity Advisor - California, Nevada, Arizona
 Advisor to strategic leaders, senior management, and executives across critical infrastructure sectors on cybersecurity strategy, infrastructure resilience, and risk management.
 
-- **Supervisory Weapon Systems Engineer – Yemen, Poland, Japan, and South China Sea
+- Supervisory Weapon Systems Engineer – Yemen, Poland, Japan, and South China Sea
 Served within the Department of Defense’s Combat Systems Department, overseeing advanced weapon system integration, deployment, and mission readiness across multiple global theaters.
 
-- ** Founder – Ann Sillivan Cyber Fund (501c3)
+- Founder – Ann Sillivan Cyber Fund (501c3)
 501(c)(3) nonprofit organization developed to generate funding for veterans and cybersecurity professionals seeking access to training, education, and certification resources.**
 
 ---
@@ -103,6 +103,7 @@ Served within the Department of Defense’s Combat Systems Department, overseein
 
 
 - .././..Everything Here is Stolen.././..
+
 
 
 
