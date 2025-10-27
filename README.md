@@ -30,7 +30,7 @@ Platform dedicated to cyber warfare research, advanced threat intelligence, and 
 Federal Cybersecurity Advisor – California, Nevada, and Arizona
 Advisor to strategic leaders, senior management, and executives across critical infrastructure sectors on cybersecurity strategy, infrastructure resilience, and risk management.
 
-Supervisory Weapon Systems Engineer – Yemen, Poland, Japan, and South China Sea
+Supervisory Cyber & Kinetic Systems Engineer – Yemen, Poland, Japan, and South China Sea
 Served within the U.S. Department of Defense’s Combat Systems Department, overseeing advanced weapon system integration, deployment, and mission readiness across multiple global theaters.
 
 Founder – Ann Sillivan Cyber Fund (501(c)(3))
@@ -90,6 +90,7 @@ Established a nonprofit organization supporting veterans and cybersecurity profe
 ## 🤝 Hack Back
 - .././..Everything Here is Stolen.././..
 ---
+
 
 
 
