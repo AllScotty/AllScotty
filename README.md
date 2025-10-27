@@ -9,8 +9,6 @@
 - Offensive Cyber Operator 
 - Cyber Lawfare Lawyer
   
-
-
 ---
 
 ## 🚀 Tech & Skills
@@ -24,10 +22,6 @@
 [![SYNISTR](https://img.shields.io/badge/SYNISTR-ac04b4?style=for-the-badge)](https://synistr.com/)
 
 </div>
-
-
-
-
 
 
 ---
@@ -51,7 +45,7 @@ Served within the Department of Defense’s Combat Systems Department, overseein
 ## 🎤 Speaking Engagements
 
 - Too Many to List....
----
+
 ## 🤝 Professional Affiliations
 
 - **Cybersecurity Advisor – CISA**
@@ -92,6 +86,7 @@ Served within the Department of Defense’s Combat Systems Department, overseein
 ## 🤝 Hack Back
 - .././..Everything Here is Stolen.././..
 ---
+
 
 
 
