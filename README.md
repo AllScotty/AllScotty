@@ -8,8 +8,6 @@
 - Silicon Valley's Cybersecurity Advisor
 - Offensive Cyber Operator 
 - Cyber Lawfare Lawyer
-  
----
 
 ## 🚀 Tech & Skills
    
@@ -23,12 +21,11 @@
 
 </div>
 
-
 ---
 
 ## 💼 Professional Experience
 
-- Founder & CEO – SYNISTR
+- SYNISTR Founder/CEO 
 Platform dedicated to cyber warfare research, advanced threat intelligence, and policy development.
 
 - Federal Cybersecurity Advisor - California, Nevada, Arizona
@@ -86,6 +83,7 @@ Served within the Department of Defense’s Combat Systems Department, overseein
 ## 🤝 Hack Back
 - .././..Everything Here is Stolen.././..
 ---
+
 
 
 
