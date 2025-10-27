@@ -84,15 +84,15 @@ Available on request — frequent speaker on cybersecurity operations, policy, a
 - *How to Measure Anything in Cybersecurity Risk* — Douglas W. Hubbard & Richard Seiersen  
 - *Blitzscaling* — Reid Hoffman & Chris Yeh  
 - *From Zero to One* — Peter Thiel  
-- *Evasive Malware: Evading EDR* — *( self-study resource)*  
+- *Evasive Malware: Evading EDR* — *(self-study resource)*  
 - *Atomic Habits* — James Clear  
-- *The Silicon Valley Way: How to Build a Startup That Changes the World* — *(Confirm title/author)*
+- *The Silicon Valley Way: How to Build a Startup That Changes the World*
 
 ---
 
 ## How you can work with me
 - Advisory / consulting engagements (federal & critical infrastructure)  
-- Research collaboration on cyber warfare, AI security, and threat intelligence  
+- Research collaboration on cyber warfare, AI security, and cybersecurity education development
 - Speaking and policy advisory work
 
 ---
@@ -100,6 +100,7 @@ Available on request — frequent speaker on cybersecurity operations, policy, a
 ## Contact  
 - LinkedIn: [https://linkedin.com/in/scottsec](https://www.linkedin.com/in/scottsec)  
 ---
+
 
 
 
