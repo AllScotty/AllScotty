@@ -5,7 +5,7 @@
 
 # 👋 Welcome!
 
-- Cybersecurity Advisor for California, Nevada, and Arizona
+- Federal Cybersecurity Advisor for Senior Management & Executive Leadership
 - Offensive Security Cyber Researcher
 - Cyber Lawfare Attorney
 
@@ -84,6 +84,7 @@ Established a nonprofit organization supporting veterans and cybersecurity profe
 ## 🤝 Hack Back
 - .././..Everything Here is Stolen.././..
 ---
+
 
 
 
