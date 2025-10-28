@@ -25,7 +25,7 @@ I’m a Federal Cybersecurity Advisor, university lecturer, and offensive securi
 **University Lecturer — San José State University**  
 Teach graduate-level courses in cybersecurity, penetration testing, and network defense within the MLIS and Informatics programs.
 
-**Cybersecurity Advisor — CISA (U.S. Department of Homeland Security)**  
+**Federal Cybersecurity Advisor**  
 Advised government and private-sector leaders across California, Nevada, and Arizona on cyber resilience, threat mitigation, and critical infrastructure protection.
 
 **Cyber Engineer — U.S. Navy Littoral Combat Ship Program (Auria Space)**  
@@ -96,6 +96,7 @@ Available on request — frequent speaker on cybersecurity operations, policy, a
 - Speaking and policy advisory work
 
 ---
+
 
 
 
