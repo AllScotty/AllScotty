@@ -23,19 +23,19 @@ I’m a Federal Cybersecurity Advisor, university lecturer, and offensive securi
 ## 💼 Professional Experience
 
 **University Lecturer — San José State University**  
-Teach graduate-level courses in cybersecurity, penetration testing, and network defense within the MLIS and Informatics programs.
+Teach graduate-level courses in cybersecurity, penetration testing, and network defense.
 
 **Federal Cybersecurity Advisor**  
 Advised government and private-sector leaders across California, Nevada, and Arizona on cyber resilience, threat mitigation, and critical infrastructure protection.
 
 **Cyber Engineer — U.S. Navy Littoral Combat Ship Program (Auria Space)**  
-Led cybersecurity integration for mission-critical Navy systems, embedding controls into cloud and DevSecOps environments.
+Led cybersecurity integration for mission-critical combat systems.
 
 **Senior Combat Systems Engineer — Raytheon & Lockheed Martin**  
-Directed AEGIS radar modernization and combat system integration across global operations, ensuring mission readiness and cybersecurity compliance.
+Directed combat system engineering modernization and combat system sub-system integration across the globe.
 
 **Combat Systems Engineer Supervisor — U.S. Department of the Navy**  
-Supervised advanced weapons-system integration and trained 300+ personnel in cyber and kinetic operations.
+Supervised advanced weapons-system integration teams and trained 300+ operators in warfare operations.
 
 **Founder — Anne Sullivan Cyber Fund (501(c)(3))**  
 Founded a nonprofit supporting veterans and cybersecurity professionals through education and certification funding.
@@ -66,7 +66,7 @@ Available on request — frequent speaker on cybersecurity operations, policy, a
 ---
 
 ## 🤝 Professional affiliations
-- Cybersecurity Advisor — CISA  
+- Cybersecurity Advisor — Federal 
 - Contributing Member — ICANN SSAC  
 - Professional Member — IEEE Computer Society  
 - Member — ISSA (Information Systems Security Association)  
@@ -96,6 +96,7 @@ Available on request — frequent speaker on cybersecurity operations, policy, a
 - Speaking and policy advisory work
 
 ---
+
 
 
 
