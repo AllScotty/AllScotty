@@ -7,12 +7,12 @@
 [![Cyber Lawfare](https://img.shields.io/badge/Cyber%20Lawfare-blue?style=for-the-badge)](https://synistr.com)
 ## 👋 About Me
 
-I’m a Federal Cybersecurity Advisor, university lecturer, and offensive security researcher focused on advancing cyber warfare capabilities, improving intelligent infrastructure resiliency, and driving cyber education innovation. I serve as a strategic advisor to government and industry leaders across the United States, guiding cybersecurity strategy and critical infrastructure protection. I also teach graduate courses in offensive security and network defense at San José State University, mentoring the next generation of cybersecurity professionals to defend, disrupt, and drive the future of cyber.
+Federal Cybersecurity Advisor, university lecturer, and offensive security researcher focused on advancing cyber warfare capabilities, improving intelligent infrastructure resiliency, and driving cyber education innovation. I serve as a strategic advisor to government and industry leaders across the United States, guiding cybersecurity strategy and critical infrastructure protection. I also teach graduate courses in offensive security and network defense at San José State University, mentoring the next generation of cybersecurity professionals to defend, disrupt, and drive the future of cyber.
 
 ---
 
 ## ⚙️ Core expertise
-- Federal cybersecurity advising for senior management & executive leadership  
+- Federal cybersecurity advisor to senior management & executive leadership  
 - Offensive security, adversary emulation, and threat research  
 - Cyber lawfare, policy, and regulatory guidance  
 - Critical infrastructure resilience & risk management  
@@ -35,7 +35,7 @@ Led cybersecurity integration for mission-critical combat systems.
 Directed combat system engineering modernization and combat system sub-system integration across the globe.
 
 **Combat Systems Engineer Supervisor — U.S. Department of the Navy**  
-Supervised advanced weapons-system integration teams and trained 300+ operators in warfare operations.
+Supervised advanced weapons-system integration teams and trained 400+ operators in warfare operations.
 
 **Founder — Anne Sullivan Cyber Fund (501(c)(3))**  
 Founded a nonprofit supporting veterans and cybersecurity professionals through education and certification funding.
@@ -55,23 +55,13 @@ Founded a nonprofit supporting veterans and cybersecurity professionals through 
 - Offensive Security Certified Professional (OSCP)  
 - Certified Information Security Manager (CISM)  
 - Certified Information Systems Security Professional (CISSP)  
-- CompTIA Advanced Security Practitioner (CASP+)  
+- CompTIA Advanced Security Practitioner (Security X)  
 - Project Management Professional (PMP)
 
 ---
 
 ## 🎤 Speaking & publications
-Available on request — frequent speaker on cybersecurity operations, policy, and law. 
-
----
-
-## 🤝 Professional affiliations
-- Cybersecurity Advisor — Federal 
-- Contributing Member — ICANN SSAC  
-- Professional Member — IEEE Computer Society  
-- Member — ISSA (Information Systems Security Association)  
-- Member — IAPP (International Association of Privacy Professionals)  
-- Member – ISC² (International Information System Security Certification Consortium)
+Available on request — frequent speaker on cybersecurity operations, policy, and law. Find them here - https://alfords.io/media
 
 ---
 
@@ -90,12 +80,13 @@ Available on request — frequent speaker on cybersecurity operations, policy, a
 
 ---
 
-## How you can work with me
+## How I can work with You
 - Advisory / consulting engagements (federal & critical infrastructure)  
 - Research collaboration on cyber warfare, AI security, and cybersecurity education development
 - Speaking and policy advisory work
 
 ---
+
 
 
 
