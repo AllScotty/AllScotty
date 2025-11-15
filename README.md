@@ -61,7 +61,7 @@ Founded a nonprofit supporting veterans and cybersecurity professionals through 
 ---
 
 ## 🎤 Speaking & publications
-Available on request — frequent speaker on cybersecurity operations, policy, and law. Find them here - https://alfords.io/media
+Available on request — frequent speaker on cybersecurity operations, policy, and law.
 
 ---
 
@@ -86,6 +86,7 @@ Available on request — frequent speaker on cybersecurity operations, policy, a
 - Speaking and policy advisory work
 
 ---
+
 
 
 
