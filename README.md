@@ -2,9 +2,9 @@
 ![header](assets/header.png)
 
 
-[![Offensive Security](https://img.shields.io/badge/Offensive%20Security-111111?style=for-the-badge&logo=kalilinux&logoColor=white)]
-[![AI Security](https://img.shields.io/badge/AI%20Security-4285F4?style=for-the-badge&logo=tensorflow&logoColor=white)]
-[![Cyber Lawfare](https://img.shields.io/badge/Cyber%20Lawfare-blue?style=for-the-badge)]
+![Offensive Security](https://img.shields.io/badge/Offensive%20Security-111111?style=for-the-badge&logo=kalilinux&logoColor=white)
+![AI Security](https://img.shields.io/badge/AI%20Security-4285F4?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Cyber Lawfare](https://img.shields.io/badge/Cyber%20Lawfare-blue?style=for-the-badge)
 ## 👋 About Me
 
 Federal Cybersecurity Advisor, university lecturer, and offensive security researcher focused on advancing cyber warfare capabilities, improving intelligent infrastructure resiliency, and driving cyber education innovation. I serve as a strategic advisor to government and industry leaders across the United States, guiding cybersecurity strategy and critical infrastructure protection. I also teach graduate courses in offensive security and network defense at San José State University, mentoring the next generation of cybersecurity professionals to defend, disrupt, and drive the future of cyber.
@@ -86,6 +86,7 @@ Available on request — frequent speaker on cybersecurity operations, policy, a
 - Speaking and policy advisory work
 
 ---
+
 
 
 
