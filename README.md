@@ -28,7 +28,7 @@ Teach graduate-level courses in cybersecurity, penetration testing, and network 
 **Federal Cybersecurity Advisor**  
 Advised government and private-sector leaders across California, Nevada, and Arizona on cyber resilience, threat mitigation, and critical infrastructure protection.
 
-**Cyber Engineer — U.S. Navy Littoral Combat Ship Program (Auria Space)**  
+**Cyber Engineer — U.S. Navy Littoral Combat Ship Program **  
 Led cybersecurity integration for mission-critical combat systems.
 
 **Senior Combat Systems Engineer — Raytheon & Lockheed Martin**  
@@ -86,6 +86,7 @@ Available on request — frequent speaker on cybersecurity operations, policy, a
 - Speaking and policy advisory work
 
 ---
+
 
 
 
